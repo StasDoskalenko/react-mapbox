@@ -1,0 +1,642 @@
+<svg class="map__svg" width="444px" height="335px" viewBox="0 0 4096 4096" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <MetaInfo xmlns="http://www.prognoz.ru"><Geo>
+        <GeoItem X="63" Y="42" Latitude="45.47740975744297" Longitude="9.122589826583862"/>
+        <GeoItem X="355" Y="261" Latitude="45.47867736146078" Longitude="9.125379323959349"/>
+<!--        <GeoItem X="595.30" Y="142.88" Latitude="37.36101617937294" Longitude="-121.97476387023924"/>-->
+    </Geo></MetaInfo>
+    <g>
+        <path d="M2214.7,1281.4h85.9v57.3h-85.9V1281.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2191715"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2319.7,1281.4h76.4v57.3h-76.4V1281.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2191716"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2424.6,1281.4h66.8v57.3h-66.8V1281.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2191717"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1584.9,1281.4h73.2v57.3h-73.2V1281.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2191712"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1680.2,1281.4h76.4v57.3h-76.4V1281.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2191713"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1785.2,1281.4h76.4v57.3h-76.4V1281.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2191714"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1267.8,1694.7h1560.4v559.5H1267.8V1694.7z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#93003f" fill-opacity="0.5" cursor="pointer" sid="2088520"
+              style="fill-opacity: 0.5; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(147, 0, 63); cursor: pointer;"></path>
+        <path d="M1267.8,2254.2h1560.4v185.2H1267.8V2254.2z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#080041" fill-opacity="0.5" cursor="pointer" sid="2088483"
+              style="fill-opacity: 0.5; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(8, 0, 65); cursor: pointer;"></path>
+        <path d="M993,2494.6h133.6v181.3H993V2494.6z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088357"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M840.3,2542.3h124.1v133.6H840.3V2542.3z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088376"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M993,2341.8h133.6v124.1H993V2341.8z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088438"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M840.3,2513.6v-171.8h124.1v133.7h-66.8v38.1H840.3z" stroke="#ffffff" stroke-width="0"
+              stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088399"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M993,2198.7h133.6v114.5H993V2198.7z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088230"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M840.3,2198.7h124.1v114.5H840.3V2198.7z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088322"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M993,2036.4h133.6v124.1H993V2036.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088293"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M840.3,2036.4h124.1v124.1H840.3V2036.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088237"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M993,1883.7h133.6v124.1H993V1883.7z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088287"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M840.3,2007.8V1836h57.3v47.7h66.8v124.1L840.3,2007.8L840.3,2007.8z" stroke="#ffffff" stroke-width="0"
+              stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088309"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M993,1683.3h133.6v171.8H993V1683.3z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088387"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M840.3,1683.3h124.1v124.1H840.3V1683.3z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088345"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1288.9,1453.2v-28.7h-28.7v-57.2h114.6v85.9H1288.9z" stroke="#000000" stroke-width="0"
+              stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088435"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2023.1,1286.8H2167v165h-143.9V1286.8z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088344"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M1403.4,1367.3h105v85.9h-105V1367.3z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088417"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M1537,1367.3h152.7v85.9H1537V1367.3z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088495"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M1718.4,1453.2v-85.9H1852v47.7h-19.1v38.2H1718.4z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088490"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2004.7,1286.8h-19.1h-105v165h105h19.1h18.4v-165H2004.7z" stroke="#000000" stroke-width="0"
+              stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088361"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2262.4,1453.2V1415h-28.6v38.2h-38.2v-85.9h171.8v85.9H2262.4z" stroke="#000000" stroke-width="0"
+              stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088482"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2386.5,1367.3h171.8v85.9h-171.8V1367.3z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#b9000f" fill-opacity="0.5" cursor="pointer" sid="2088498"
+              style="fill-opacity: 0.5; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(185, 0, 15); cursor: pointer;"></path>
+        <path d="M2586.9,1367.3h105v85.9h-105V1367.3z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088262"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2720.5,1453.2v-85.9h114.6v47.7h-38.2v38.2H2720.5z" stroke="#000000" stroke-width="0"
+              stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088400"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2972.4,1381.3l53.7-104c-3.5-1.7-7.7-3.6-12.6-5.7l0.1-0.1c-1.8-0.8-3.7-1.4-5.6-2.1     c-2.7-1.1-5.5-2.1-8.5-3.2c-2.1-0.8-4.2-1.5-6.4-2.2c-3.7-1.3-7.5-2.5-11.6-3.8c-2.1-0.6-4.1-1.2-6.2-1.8     c-2.8-0.8-5.8-1.6-8.8-2.4s-6-1.5-9-2.2c-3.3-0.8-6.7-1.5-10.2-2.2c-1.7-0.3-3.3-0.7-5-1c-0.9-0.2-1.8-0.4-2.7-0.5     c-0.6-0.1-1.1-0.1-1.7-0.2c-21.5-3.7-43.5-5.6-65.6-5.6H2854v114.5h19.4c31.1,0,61.6,7.4,90.7,18.3L2972.4,1381.3z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer"
+              sid="2088492"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M3044.7,1287.1l-53.6,103.8c7.1,3.7,14,7.7,20.8,12c3.5,2.3,7.2,4.8,11.1,7.5c21.2,15.1,40.3,33.5,56.3,54.4     l45-30.8l25.6,37.4l53-25.8C3167.6,1378.2,3111.8,1322.4,3044.7,1287.1z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer"
+              sid="2088502"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M3130.9,1645.1v-23.3c0-35.2-6.2-69.3-20-101.6l103.4-50.1c20.3,46.7,31.1,96.2,31.1,147.2v27.8H3130.9z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer"
+              sid="2088370"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2922.8,1548.9c-17.1-12.1-37.2-18.3-58.2-18.3h-10.4v-143.2h19.4c56,0,109.8,21.5,152,58.3L2922.8,1548.9z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer"
+              sid="2088226"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2978.2,1645.1v-13.6c0-21.5-7.2-42.3-20.3-59l90.7-92.4c34.2,39.2,53.7,89.6,53.7,142.4v22.6H2978.2z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer"
+              sid="2088303"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M1260.2,1481.8h114.5V1625h-114.5V1481.8z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088419"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M1403.4,1481.8h105V1625h-105V1481.8z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088420"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M1537,1481.8h114.5V1625H1537V1481.8z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088291"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M1756.5,1625v-38.2h-57.2v38.2h-19.1v-143.2h162.2V1625H1756.5z" stroke="#000000" stroke-width="0"
+              stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088319"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M1871.1,1481.8h162.3V1625h-162.3V1481.8z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088393"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2062,1481.8h162.3V1625H2062V1481.8z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088272"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2252.9,1481.8h162.3V1625h-162.3V1481.8z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088238"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2434.2,1481.8h114.5V1625h-114.5V1481.8z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088416"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2577.4,1481.8h114.5V1625h-114.5V1481.8z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088260"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M840.3,1645.1v-27.8c0-51.8,10.7-102,31.7-149.4l112.3,54.9c-13.1,31.5-20,64.8-20,99v23.3H840.3z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer"
+              sid="2088437"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M884,1443.4c37.3-70,96.6-127.1,167.8-161.7l51.4,110.8c-33.2,17.6-62.6,42.7-85.6,72.9l-46-31.5l-26.8,39.1     L884,1443.4z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer"
+              sid="2088372"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M1076.8,1270.5c43.6-17.3,89.5-26.3,136.5-26.3h18.3v114.5h-7.6c-33.2,0-65.5,8-96.1,20.3L1076.8,1270.5z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer"
+              sid="2088306"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M993,1645.1v-23.3c0-56.3,20-110.2,57-152.6l99.3,98.5c-14.7,18.1-22.7,40.6-22.7,63.8v13.6H993z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer"
+              sid="2088468"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M1068.8,1448.6c42.7-38.7,97.7-61.2,155.3-61.2h7.5v143.2h-4.1c-21.3,0-41.5,5.7-58.7,18L1068.8,1448.6z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#FF0055" fill-opacity="0.3" cursor="pointer"
+              sid="2088304"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2720.5,1481.8H2835V1625h-114.5V1481.8z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#FF0055" fill-opacity="0.3" cursor="pointer" sid="2088299"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(255, 0, 85); cursor: pointer;"></path>
+        <path d="M2968.7,1855.1v-120.5c0-0.7,0-3.2,0-3.2v-48.1h133.6v171.8L2968.7,1855.1L2968.7,1855.1z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088433"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3130.9,1683.3h114.5v124.1h-114.5V1683.3z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088246"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2968.7,1883.7h133.6v124.1h-133.6V1883.7z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088270"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3130.9,2007.8v-124.1h57.3V1836h57.3v171.8H3130.9z" stroke="#ffffff" stroke-width="0"
+              stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088375"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2968.7,2036.4h133.6v124.1h-133.6V2036.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088297"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3130.9,2036.4h114.5v124.1h-114.5V2036.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088427"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2968.7,2198.7h133.6v114.5h-133.6V2198.7z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088292"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3130.9,2198.7h114.5v114.5h-114.5V2198.7z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088332"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2968.7,2341.8h133.6v124.1h-133.6V2341.8z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088236"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3188.2,2513.6v-38.1h-57.3v-133.7h114.6v171.8H3188.2z" stroke="#ffffff" stroke-width="0"
+              stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088384"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2968.7,2494.6h133.6v181.3h-133.6V2494.6z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088249"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3130.9,2542.3h114.5v133.6h-114.5V2542.3z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088410"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M894.9,3253.5c-60.4-39.7-113.3-92.1-153.5-152.2l78.6-45.7c32.4,47.5,73.1,87.7,121,119.6L894.9,3253.5z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088486"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M856.4,3438.3c-33.3-17.7-65-37.7-94.3-59.6c-95.9-75.4-161.3-152.7-211.2-249.9l136.3-64.6     c39.3,75.3,90.5,135.3,165.5,193.9c6,4.5,12.5,9,19.8,14l-18.5,28l4.9,3.7c2.6,2,15.7,11.6,28.3,18.5c7,3.8,14.5,7.6,20.3,10.5     L856.4,3438.3z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088524"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M726.6,3078c-43.1-72.4-68.8-154.8-74.5-238.9l91.8-3.6c4.5,69.2,25.6,137.1,61.2,196.9L726.6,3078z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088491"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M536.9,3103.9c-44.5-95.3-68.8-197-68.8-302.3v-30.2h152.7v23.9l-28.3,0.6l0.4,6.2     c-0.1,4.1-0.3,17.7-0.2,26.5c0.1,10,1.7,26.1,1.7,26.2l0.6,6.1l31.2-0.6c6.3,62.3,21.8,122.4,47.9,179L536.9,3103.9z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088487"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M651.2,2811.5c-0.1-2.9-1.8-5.7-1.8-8.6v-193.8h95.4c0,0,0,198.5,0,198.8L651.2,2811.5z" stroke="#ffffff"
+              stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088506"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M468.1,2532.7h152.7v210H468.1V2532.7z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088505"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M649.4,2380h95.4v200.4h-95.4V2380z" stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff"
+              fill-opacity="0.4" sid="2088521"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M468.1,2513.6v-190.8h152.7v19h-28.7v57.3h28.7v114.5H468.1z" stroke="#ffffff" stroke-width="0"
+              stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088522"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M649.4,2141.4h95.4v219.5h-95.4V2141.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088528"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M468.1,1969.6h152.7v324.5H468.1V1969.6z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088484"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M649.4,1902.8h95.4v210h-95.4V1902.8z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088485"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M468.1,1941v-124.1h152.7v38.2h-28.7v66.8h28.7v19.1H468.1z" stroke="#ffffff" stroke-width="0"
+              stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088512"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M649.4,1654.7h95.4v219.5h-95.4V1654.7z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088511"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M468.1,1635.6h152.7v152.7H468.1V1635.6z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088488"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M649.4,1626v-21.2c0-58.9,10.3-117,29.3-172.7l86.2,31.4c-14.2,43.8-20.1,89.3-20.1,135.2v27.4h-95.4V1626z     "
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088519"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M471.7,1606.9c0-57.3,6.3-109.9,18.8-163.4l145.5,36.9c-9.3,41.2-15.2,82.6-15.2,124.3v2.1L471.7,1606.9     L471.7,1606.9z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088527"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M689,1406.1c24.3-61.2,59.4-116.8,104.2-165.5l63.7,62.5c-35.8,39.8-63.8,84.9-83.3,134.4L689,1406.1z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088504"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M497.2,1415.7c14.7-53.5,35.7-105.4,62.6-154.6l131.2,75.3c-7.7,14.2-14.7,28.6-21,42.9l-28.1-9.9l-2.5,5.5     c0,0.1-4.7,10.5-9.5,24.3c-4.8,13.7-8.2,25.4-8.2,25.5l-1.7,5.9l27.5,9.7c-1.2,4.1-2.5,8.4-3.7,12.7L497.2,1415.7z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088517"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M812.3,1220.6c47.8-46.9,103-84.1,164.2-110.6l34.1,82.2c-50.1,21.8-95.4,52.3-134.6,90.8L812.3,1220.6z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088479"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M573.6,1237.2c62-103.3,158.2-196.5,271.4-262.8c36.8-20.4,75.8-37.7,115.9-51.4l37.3,114.9     c-13.8,5.6-51,21.8-52.5,22.8l-4.6,3l11.6,26.8c-11.6,5.3-22,10.5-31.8,15.8c-99.7,58.9-164.5,120.7-216.2,206.2L573.6,1237.2z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088516"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1011.3,1096.4c44.4-15.6,90.9-25.3,138.5-28.8l5.7,89.3c-37.3,2.6-74.3,9.9-110,22L1011.3,1096.4z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#ED1848" fill-opacity="0.3" cursor="pointer"
+              sid="2088310"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M996.5,911.9c46.1-13.1,93.7-21.6,141.7-25.2l9.8,153.3c-35.1,2.6-70.1,8.5-104.2,17.6L996.5,911.9z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#ED1848" fill-opacity="0.3" cursor="pointer"
+              sid="2088369"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M1177.3,1064.7c4.1-0.1,8.2-1.8,12.3-1.8h175.6v95.4h-179.5c-0.9,0-1.8-2-2.7-2L1177.3,1064.7z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#ED1848" fill-opacity="0.3" cursor="pointer"
+              sid="2088454"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M1165.7,883.6c9.8-0.4,18.3-2,26.5-2h87.1v152.7h-89.7c-4.7,0-9.4,1.5-14.1,1.6L1165.7,883.6z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#ED1848" fill-opacity="0.3" cursor="pointer"
+              sid="2088461"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M1384.3,1062.9h219.5v95.4h-219.5V1062.9z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#ED1848" fill-opacity="0.3" cursor="pointer" sid="2088421"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M1403.4,1034.3v-28.7h-57.3v28.7H1308V881.6h114.5v152.7L1403.4,1034.3L1403.4,1034.3z" stroke="#000000"
+              stroke-width="0" stroke-opacity="0" fill="#ED1848" fill-opacity="0.3" cursor="pointer" sid="2088477"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M1632.5,1062.9h171.8v95.4h-171.8V1062.9z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#ED1848" fill-opacity="0.3" cursor="pointer" sid="2088467"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M1451.1,1034.3V881.6h334.1v38.1h57.2v85.9h-57.2v28.7L1451.1,1034.3L1451.1,1034.3z" stroke="#000000"
+              stroke-width="0" stroke-opacity="0" fill="#a70002" fill-opacity="0.5" cursor="pointer" sid="2088229"
+              style="fill-opacity: 0.5; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(167, 0, 2); cursor: pointer;"></path>
+        <path d="M2138.3,1062.9h267.2v95.4h-267.2V1062.9z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#ED1848" fill-opacity="0.3" cursor="pointer" sid="2088434"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M2138.3,919.7h124.1v114.5h-124.1V919.7z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#ED1848" fill-opacity="0.3" cursor="pointer" sid="2088362"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M2434.2,1062.9h190.9v95.4h-190.9V1062.9z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#ED1848" fill-opacity="0.3" cursor="pointer" sid="2088475"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M2453.3,1034.3v-28.7h-66.8v28.7H2291V881.6h200.5v152.7L2453.3,1034.3L2453.3,1034.3z" stroke="#000000"
+              stroke-width="0" stroke-opacity="0" fill="#ED1848" fill-opacity="0.3" cursor="pointer" sid="2088456"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M2653.7,1062.9h200.4v95.4h-200.4V1062.9z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#ED1848" fill-opacity="0.3" cursor="pointer" sid="2088338"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M2520.1,881.6h238.6v152.7h-238.6V881.6z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#a70002" fill-opacity="0.5" cursor="pointer" sid="2088403"
+              style="fill-opacity: 0.5; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(167, 0, 2); cursor: pointer;"></path>
+        <path d="M3059.5,1184.3c-49-18.1-100.1-26-152.2-26h-24.5v-95.4h20.7c65.6,0,129.8,14,191.1,37.4L3059.5,1184.3z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#ED1848" fill-opacity="0.3" cursor="pointer"
+              sid="2088409"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M3020.6,1048.6c-38.7-8.2-78.1-14.4-117.1-14.4h-1.6v-28.6h-66.8v28.6h-47.7V881.6h115.1     c50.8,0,102.1,6,152.6,17L3020.6,1048.6z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#ED1848" fill-opacity="0.3" cursor="pointer"
+              sid="2088245"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M3219.3,1285.3c-39.1-39-84.2-69.9-134.1-91.9l35-81.8c62,27.3,117.8,65.8,165.9,114.5L3219.3,1285.3z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#ED1848" fill-opacity="0.3" cursor="pointer"
+              sid="2088305"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M3271.3,1174.6c-4.5-3.8-9.1-7.6-13.8-11.5l93.6-120.6c9.2,7.4,17.8,14.5,25.8,21.6L3271.3,1174.6z      M3235.6,1146.2c-57-41.4-120.2-71.4-188.1-89.3l34.5-149.6c89.5,23.2,172.7,62.9,247.4,118.1L3235.6,1146.2z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#ED1848" fill-opacity="0.3" cursor="pointer"
+              sid="2088348"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M1842.4,1158.3v-95.4h28.7V891.1h-57.3v-9.5h439.1v9.5h-143.2v267.2H1842.4z" stroke="#000000"
+              stroke-width="0" stroke-opacity="0" fill="#ED1848" fill-opacity="0.3" cursor="pointer" sid="2088515"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(237, 24, 72); cursor: pointer;"></path>
+        <path d="M3312.7,1420.8c-17.2-38.9-40.1-75.2-68-108.1l66.8-59.2c34.8,40.3,63.2,85.1,84.6,133.3L3312.7,1420.8z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill-opacity="0.3" fill="#6CC712" cursor="pointer"
+              sid="2088321"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3421.7,1376.4c-21.2-47.9-49.1-92.7-82.9-133.4l20.9-16.7l-3.5-5c-1.1-1.6-10.9-15.4-21.2-26.3     c-5.4-5.7-11.4-11.7-16-16.2l85.3-89.3c68.1,66.2,121.5,143.3,159,229.2L3421.7,1376.4z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill-opacity="0.3" fill="#6CC712" cursor="pointer"
+              sid="2088330"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3349.3,1572.5c-2.6-43.1-11.4-85.5-26.4-126l83.7-34.1c19.2,49.9,30.7,102.1,34.3,155.3L3349.3,1572.5z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill-opacity="0.3" fill="#6CC712" cursor="pointer"
+              sid="2088463"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3474.5,1645.1v-32.6l26.7-0.6l-0.9-6.2c0,0,0-16.4-0.1-26.5c-0.1-8.4-1.4-21-1.8-26l-0.7-6.4l-30.7,0.6     c-5-49.8-16.7-98.7-34.7-145.5l143.6-57.7c32.7,83.5,51.4,171.2,51.4,260.7v40.1L3474.5,1645.1L3474.5,1645.1z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill-opacity="0.5" fill="#268100" cursor="pointer"
+              sid="2088449"
+              style="fill-opacity: 0.5; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(38, 129, 0); cursor: pointer;"></path>
+        <path d="M3350.4,1836v-235.8l93.6-4.8c0.1,3.1,1.9,6.3,1.9,9.4V1836H3350.4z" stroke="#000000" stroke-width="0"
+              stroke-opacity="0" fill-opacity="0.3" fill="#6CC712" cursor="pointer" sid="2088390"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3474.5,1673.7h152.7v248.2h-152.7V1673.7z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill-opacity="0.3" fill="#6CC712" cursor="pointer" sid="2088267"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3350.4,1864.6h95.4V2065h-95.4V1864.6z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill-opacity="0.3" fill="#6CC712" cursor="pointer" sid="2088476"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3474.5,2160.5v-47.7h19.1V2046h-19.1v-95.5h152.7v210H3474.5z" stroke="#000000" stroke-width="0"
+              stroke-opacity="0" fill-opacity="0.3" fill="#6CC712" cursor="pointer" sid="2088331"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3350.4,2093.7h95.4v229.1h-95.4V2093.7z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill-opacity="0.3" fill="#6CC712" cursor="pointer" sid="2088300"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3474.5,2189.1h152.7v248.2h-152.7V2189.1z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill-opacity="0.3" fill="#6CC712" cursor="pointer" sid="2088313"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3350.4,2341.8h95.4v190.9h-95.4V2341.8z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill-opacity="0.3" fill="#6CC712" cursor="pointer" sid="2088425"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3474.5,2666.4v-85.9h19.1v-66.9h-19.1v-47.7h152.7v200.5L3474.5,2666.4L3474.5,2666.4z" stroke="#000000"
+              stroke-width="0" stroke-opacity="0" fill-opacity="0.3" fill="#6CC712" cursor="pointer" sid="2088251"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3347.5,2855.6c1.9-16.8,3-32.8,3-48.7v-245.5h95.4v241.5c0,21-3.1,42.9-5.8,65.1L3347.5,2855.6z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill-opacity="0.3" fill="#6CC712" cursor="pointer"
+              sid="2088371"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3441.2,2987.5c20.5-59.4,33.3-121.5,33.3-184.6V2695h152.7v106.5c0,80.5-14.4,159.9-41,235.9L3441.2,2987.5     z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill-opacity="0.3" fill="#6CC712" cursor="pointer"
+              sid="2088349"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3234.9,3103.9c56.7-62.5,94.2-138.7,108.6-221l90.7,12.4c-17.8,102.6-64.9,197.2-136.4,274.1L3234.9,3103.9     z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill-opacity="0.3" fill="#6CC712" cursor="pointer"
+              sid="2088341"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M3348.3,3153c33.5-42.5,60.7-89.4,80.9-139.6l144.2,50c-27.1,69-64.4,133-111,190.4L3348.3,3153z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill-opacity="0.3" fill="#6CC712" cursor="pointer"
+              sid="2088278"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(108, 199, 18); cursor: pointer;"></path>
+        <path d="M1279.3,1190.1h76.4v57.3h-76.4V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088523"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2214.7,1190.1h85.9v57.3h-85.9V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088499"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2319.7,1190.1h76.4v57.3h-76.4V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088509"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2424.6,1190.1h66.8v57.3h-66.8V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088493"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2520.1,1190.1h76.4v57.3h-76.4V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088508"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2634.6,1190.1h76.4v57.3h-76.4V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088507"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2739.6,1190.1h76.4v57.3h-76.4V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088501"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1384.3,1190.1h76.4v57.3h-76.4V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088513"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1498.9,1190.1h76.4v57.3h-76.4V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088496"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1603.8,1190.1h66.8v57.3h-66.8V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088500"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1699.3,1190.1h76.4v57.3h-76.4V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088481"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1804.3,1190.1h76.4v57.3h-76.4V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088497"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1909.3,1190.1h76.4v57.3h-76.4V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088526"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2014.2,1190.1h76.4v57.3h-76.4V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088518"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2109.7,1190.1h85.9v57.3h-85.9V1190.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088503"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1260.2,1281.4h76.4v57.3h-76.4V1281.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088514"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1365.2,1281.4h76.4v57.3h-76.4V1281.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088494"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M1479.8,1281.4h76.4v57.3h-76.4V1281.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088480"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2520.1,1281.4h76.4v57.3h-76.4V1281.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088510"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2634.6,1281.4h76.4v57.3h-76.4V1281.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088525"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M2739.6,1281.4h76.4v57.3h-76.4V1281.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088489"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M365.1,3223.3c-28.5-57.3-51-117.8-66.8-179.9l113.5-26c13.4,53.2,32.6,105.1,57.1,154.5L365.1,3223.3z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#0057A6" fill-opacity="0.3" cursor="pointer"
+              sid="2088379"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M197,3199.8c-21-52.9-37.8-107.8-49.9-163.3l116.5-20.8c13.4,62.7,33.4,124.2,59.5,182.9L197,3199.8z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#0057A6" fill-opacity="0.3" cursor="pointer"
+              sid="2088311"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M290.5,3016.5c-14.2-64.2-22.8-130.1-22.8-196.2v-68h124.1v74.7c0,54.5,3.4,109.4,15,163.5L290.5,3016.5z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#0057A6" fill-opacity="0.3" cursor="pointer"
+              sid="2088395"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M141.5,3007.5c-12.3-64.5-18.7-131.2-18.8-198H239v10.7c0,56.3,7.1,112,17.2,167.4L141.5,3007.5z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#0057A6" fill-opacity="0.3" cursor="pointer"
+              sid="2088447"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M267.6,2456.4h124.1v267.2H267.6V2456.4z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#0057A6" fill-opacity="0.3" cursor="pointer" sid="2088446"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M124.5,2618.6H239v171.8H124.5V2618.6z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#0057A6" fill-opacity="0.3" cursor="pointer" sid="2088294"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M267.6,2189.1h124.1v248.2H267.6V2189.1z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#0057A6" fill-opacity="0.3" cursor="pointer" sid="2088462"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M124.5,2322.8H239V2590H124.5V2322.8z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#0057A6" fill-opacity="0.3" cursor="pointer" sid="2088364"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M267.6,1912.4h124.1v248.2H267.6V1912.4z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#0057A6" fill-opacity="0.3" cursor="pointer" sid="2088325"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M124.5,2046H239v248.2H124.5V2046z" stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#0057A6"
+              fill-opacity="0.3" cursor="pointer" sid="2088289"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M267.6,1626h124.1v257.7H267.6V1626z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#0057A6" fill-opacity="0.3" cursor="pointer" sid="2088365"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M124.5,1797.8H239v219.5H124.5V1797.8z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#0057A6" fill-opacity="0.3" cursor="pointer" sid="2088253"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M267.6,1597.4v-6c0-86.7,13.8-172.6,38.1-255.4l113.6,34.8c-20,69.8-27.6,141.7-27.6,213.9v12.7H267.6z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#0057A6" fill-opacity="0.3" cursor="pointer"
+              sid="2088367"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M124.5,1769.2v-173.9c0-7.4-0.8-14.7-0.6-22.1l117.7,3.2c-0.1,5-2.5,10-2.5,15v177.8H124.5z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#0057A6" fill-opacity="0.3" cursor="pointer"
+              sid="2088466"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M318.5,1300.4c12.2-35.8,26.8-71.2,43.4-105.4l103.8,51.4c-13.8,28.6-26,58.4-36.4,88.9L318.5,1300.4z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#0057A6" fill-opacity="0.3" cursor="pointer"
+              sid="2088320"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M123.9,1545.6c3-64.1,11.9-128.1,26.4-190.2l116.2,26.6c-12.5,54.5-20.1,110.5-22.6,166.8L123.9,1545.6z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#0057A6" fill-opacity="0.3" cursor="pointer"
+              sid="2088275"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M159.4,1319.2c9.2-33.9,20.2-67.6,32.8-100.5l127.6,1.2c-17.7,40.7-32.6,83-44.3,125.9L159.4,1319.2z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#0057A6" fill-opacity="0.3" cursor="pointer"
+              sid="2088337"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 87, 166); cursor: pointer;"></path>
+        <path d="M558.5,929.1c43.1-40.3,90.2-76.5,140.2-107.7l59.1,99.7c-42.7,26.7-83.3,58-120.8,93.1L558.5,929.1z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer"
+              sid="2088307"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M533.1,759.3c42.5-33.1,87.8-63.2,135-89.6l54.5,105.5c-53.3,29.8-103.8,65-150.3,104.6L533.1,759.3z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer"
+              sid="2088277"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M722.3,807.1c82.5-48.1,171.3-82.6,264.2-102.6l21.4,115.1c-79.3,16.9-155.4,46.3-226.5,87.3L722.3,807.1z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer"
+              sid="2088301"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M692.3,656.5c63.8-33.5,131-60.6,200-80.3L922.8,692c-60.7,17.2-119.8,40.8-175.9,70L692.3,656.5z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer"
+              sid="2088286"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M1013.7,697.6c54-9.9,109.2-16.5,164-16.5H1308v124.1h-137.7c-44.6,0-90,1.9-135.2,9.9L1013.7,697.6z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer"
+              sid="2088458"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M921.3,568.9c81.6-21.1,167.2-32.3,253.1-33.3v121.1c-76.4,0.6-149.8,10.1-221.5,28.1L921.3,568.9z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer"
+              sid="2088356"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M1336.6,681.1h267.2v124.1h-267.2L1336.6,681.1L1336.6,681.1z" stroke="#000000" stroke-width="0"
+              stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer" sid="2088342"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M1203,538h257.7v114.5H1203V538z" stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A"
+              fill-opacity="0.3" cursor="pointer" sid="2088382"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M1622.9,681.1h267.2v124.1h-267.2L1622.9,681.1L1622.9,681.1z" stroke="#000000" stroke-width="0"
+              stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer" sid="2088473"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M1489.3,538h248.2v114.5h-248.2V538z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#CF002A" fill-opacity="0.3" cursor="pointer" sid="2088411"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M1918.8,681.1h257.7v124.1h-257.7V681.1z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#890000" fill-opacity="0.5" cursor="pointer" sid="2088350"
+              style="fill-opacity: 0.5; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(137, 0, 0); cursor: pointer;"></path>
+        <path d="M1766.1,538h257.7v114.5h-257.7L1766.1,538L1766.1,538z" stroke="#000000" stroke-width="0"
+              stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer" sid="2088352"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M2205.1,681.1h257.7v124.1h-257.7V681.1z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#CF002A" fill-opacity="0.3" cursor="pointer" sid="2088443"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M2052.4,538h257.7v114.5h-257.7V538z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#CF002A" fill-opacity="0.3" cursor="pointer" sid="2088460"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M2481.9,681.1h267.2v124.1h-267.2V681.1z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#CF002A" fill-opacity="0.3" cursor="pointer" sid="2088328"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M2338.8,538H2606v114.5h-267.2V538z" stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A"
+              fill-opacity="0.3" cursor="pointer" sid="2088405"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M3057.3,815.5c-44.5-7.7-89.1-10.3-132.8-10.3h-146.7V681.1H2917c54.7,0,109.7,7.2,163.5,17L3057.3,815.5z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer"
+              sid="2088441"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M2625.1,538h257.7v114.5h-257.7V538z" stroke="#000000" stroke-width="0" stroke-opacity="0"
+              fill="#CF002A" fill-opacity="0.3" cursor="pointer" sid="2088374"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M3313.7,907.2c-71.8-41.5-148.8-71.1-229.1-88l23.1-114.8c92.8,19.9,181.6,54.3,264,102.2L3313.7,907.2z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer"
+              sid="2088431"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M3144.4,682.5c-74-18.6-150.5-30-227.4-30h-5.6V535.4c95.4,0.2,177,10.4,261.7,32.2L3144.4,682.5z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer"
+              sid="2088333"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M3458.3,1014.7c-37.5-35.2-78.2-66.6-120.9-93.4l57.9-100.5c50.4,31.4,98,67.9,141.4,108.6L3458.3,1014.7z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer"
+              sid="2088392"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M3346.3,761.2c-55.9-29-114.8-52.4-175.2-69.5l30.5-115.8c69,19.7,136.2,46.7,200,80.2L3346.3,761.2z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer"
+              sid="2088396"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M3523.5,880.6c-47.3-40.4-98.6-76.1-152.8-106.3l55.2-105c47.7,26.7,93.7,57.2,136.8,90.9L3523.5,880.6z"
+              stroke="#000000" stroke-width="0" stroke-opacity="0" fill="#CF002A" fill-opacity="0.3" cursor="pointer"
+              sid="2088423"
+              style="fill-opacity: 0.3; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(207, 0, 42); cursor: pointer;"></path>
+        <path d="M3664.8,1333.6c-10.4-30.5-22.7-60.4-36.6-88.9l103.8-51.4c16.8,34.2,31.5,69.7,43.7,105.5L3664.8,1333.6z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088326"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3818.6,1344.3c-11.8-42.9-26.7-85.1-44.4-125.6l127.7-1.2c12.6,32.7,23.6,66.3,32.9,100.2L3818.6,1344.3z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088327"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3703.6,1597.4v-12.7c0-72.7-8.8-145.2-29.1-215.5l113.5-34.8c24.6,83.3,39.6,169.7,39.6,257v6H3703.6z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088377"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3850.8,1547.6c-2.6-56.3-10.3-112.5-23-167L3944,1354c14.6,62.3,23.6,126.3,26.7,190.5L3850.8,1547.6z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088298"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3703.6,1626h124.1v257.7h-124.1V1626z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088445"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3856.3,1769.2v-177.8c0-5.4-2.3-10.8-2.4-16.2l118.3-3.2c0.2,8.2-1.4,15.8-1.4,23.3v173.9L3856.3,1769.2     L3856.3,1769.2z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088257"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3703.6,1912.4h124.1v248.2h-124.1V1912.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088244"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3856.3,1797.8h114.5v219.5h-114.5V1797.8z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088324"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3703.6,2189.1h124.1v238.6h-124.1V2189.1z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088444"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3856.3,2046h114.5v248.2h-114.5V2046z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088285"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3703.6,2456.4h124.1v267.2h-124.1V2456.4z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088439"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3856.3,2322.8h114.5V2590h-114.5V2322.8z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088343"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3687.8,2989.7c11.5-53.8,15.8-108.5,15.8-162.7v-74.7h124.1v68c0,65.8-9.6,131.6-23.7,195.4L3687.8,2989.7z     "
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088359"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3856.3,2618.6h114.5v162.3h-114.5V2618.6z" stroke="#ffffff" stroke-width="0" stroke-opacity="0"
+              fill="#ffffff" fill-opacity="0.4" sid="2088440"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3625.9,3171.6c24.5-49.5,43.7-101.6,57.2-155l113.5,26c-15.8,62.3-38.2,122.9-66.8,180.4L3625.9,3171.6z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088450"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3839,2987.7c10-55.2,17.3-111.5,17.3-167.5v-10.7h114.5v1.7c0,66-4.5,132.4-16.9,197.3L3839,2987.7z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088247"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+        <path d="M3772.3,3197.4c26-58.6,45.8-120,59.1-182.6l116.5,20.8c-12.1,55.4-28.8,110.2-49.7,163L3772.3,3197.4z"
+              stroke="#ffffff" stroke-width="0" stroke-opacity="0" fill="#ffffff" fill-opacity="0.4" sid="2088269"
+              style="fill-opacity: 0.4; stroke-opacity: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke: rgb(255, 255, 255); stroke-width: 0; fill: rgb(255, 255, 255);"></path>
+    </g>
+</svg>
